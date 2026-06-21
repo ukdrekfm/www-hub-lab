@@ -1,2 +1,14 @@
 # www-hub-lab
-HTML page archive and documentation
+
+HTML 资料页存档
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 发布目录
+
+- HTML 文件保存在当前仓库
+- GitHub Pages 可用于公开访问
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
